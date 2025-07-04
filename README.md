@@ -3819,15 +3819,11 @@ SOFTWARE.
 
 ### 🎧 Soporte Técnico
 
-- **Email**: soporte@huv.gov.co
-- **Teléfono**: +57 (2) 555-1234 ext. 1234
-- **Horario**: Lunes a Viernes, 8:00 AM - 6:00 PM
+- **Email**: innovacionydesarollo@correohuv.gov.co
 
 ### 🏥 Hospital Universitario del Valle
 
 - **Dirección**: Calle 5 # 36-08, Cali, Valle del Cauca, Colombia
-- **Teléfono Principal**: +57 (2) 555-1234
-- **Website**: [https://www.huv.gov.co](https://www.huv.gov.co)
 
 ### 📊 Métricas del Proyecto
 
